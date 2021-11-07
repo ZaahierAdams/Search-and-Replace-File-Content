@@ -1,4 +1,4 @@
-# Seach and Replace File Content 
+# Search and Replace File Content 
 
 ## About
 Replaces specified text within specified file-types (eg. json, txt, js, py, etc...) 
